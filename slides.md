@@ -14,6 +14,7 @@ drawings:
 transition: slide-left
 css: unocss
 title: Welcome to Slidev
+download: true
 ---
 
 # Vue のアレコレ
@@ -31,7 +32,7 @@ title: Welcome to Slidev
 </ul>
 </div>
 
-<img src="usagi.png" alt="" style="height: 440px">
+<img src="/usagi.png" alt="" style="height: 440px">
 </div>
 
 
@@ -57,11 +58,11 @@ title: Welcome to Slidev
 
 <div style="display: flex; gap: 40px">
 <div>
-<img alt="steve-lacy" src="steve-lacy.jpeg" style="width: 400px" />
+<img alt="steve-lacy" src="/steve-lacy.jpeg" style="width: 400px" />
 </div>
 <div>
-<img alt="dark-red" src="dark-red.jpeg" style="width: 200px" />
-<img alt="hive-mind" src="hive-mind.jpg" style="width: 200px" />
+<img alt="dark-red" src="/dark-red.jpeg" style="width: 200px" />
+<img alt="hive-mind" src="/hive-mind.jpg" style="width: 200px" />
 </div>
 </div>
 
