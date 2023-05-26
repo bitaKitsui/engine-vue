@@ -2,7 +2,7 @@
   "name": "engine-vue",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "npm i -D playwright-chromium && slidev build",
     "dev": "slidev --open",
     "export": "slidev export"
   },
